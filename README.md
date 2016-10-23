@@ -43,4 +43,10 @@ STM32开发库！
   * Debug port
 
 ## Nucleo pinout
+![](https://developer.mbed.org/media/uploads/bcostm/xnucleo64_revc_f411re_mbed_pinout_v2_arduino.png.pagespeed.ic.mYbmFCWzvy.png)
 ![](https://developer.mbed.org/media/uploads/bcostm/xnucleo64_revc_f411re_mbed_pinout_v2_morpho.png.pagespeed.ic.3yCTTK2zH2.png)
+
+> SERIAL_TX=PA_2  I2C_SCL=PB_8  SPI_MOSI=PA_7  PWM_OUT=PB_3
+> SERIAL_RX=PA_3  I2C_SDA=PB_9  SPI_MISO=PA_6
+                                SPI_SCK =PA_5
+                                SPI_CS  =PB_6
